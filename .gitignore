@@ -25,3 +25,6 @@ replay_pid*
 
 # vscode files
 *.vscode
+
+# data files
+data.json
